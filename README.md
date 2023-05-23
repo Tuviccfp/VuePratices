@@ -1,4 +1,4 @@
-# projeto-teste-no-ts
+# projeto-teste
 
 Praticando um pouco de Vue e suas funcionalidades.
 
