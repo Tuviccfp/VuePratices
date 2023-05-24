@@ -1,28 +1,28 @@
-# projeto-teste-no-ts
+# projeto-teste
 
-This template should help get you started developing with Vue 3 in Vite.
+Praticando um pouco de Vue e suas funcionalidades.
 
-## Recommended IDE Setup
+## Recomendação de IDE para executar o projeto
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+[VSCode](https://code.visualstudio.com/) + [Vetur](https://marketplace.visualstudio.com/items?itemName=Vue.volar).
 
-## Customize configuration
+## Configure o Vite
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Veja [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## Instale as dependências do projeto
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Para compilar e executar o projeto numa porta localhost
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Para buildar a aplicação
 
 ```sh
 npm run build
